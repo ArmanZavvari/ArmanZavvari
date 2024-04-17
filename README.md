@@ -23,7 +23,7 @@ Web Developer
 ### Badges
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-<a href="https://github.com/sabzlearn-ir">
+<a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=ArmanZavvari&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanZavvari" />
 </a>
