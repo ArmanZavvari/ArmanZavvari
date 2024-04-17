@@ -21,11 +21,9 @@ Web Developer
 <p align="left"> <a href="https://www.github.com/ArmanZavvari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arman-zavvari-b4623b284/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
+<h2>⚡️ &nbsp; Github Stats</h2>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ArmanZavvari"><img src="https://github-readme-stats.vercel.app/api?username=ArmanZavvari&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArmanZavvari's GitHub stats" /></a>
-
-<a href="http://www.github.com/ArmanZavvari"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArmanZavvari&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ArmanZavvari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanZavvari&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sabzlearn-ir">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmanZavvari&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanZavvari" />
+</a>
