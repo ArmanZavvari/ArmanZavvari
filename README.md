@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I live in Tehran
 * ✉️  You can contact me at [armanzavvari@gmail.com](mailto:armanzavvari@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js & PWA right now .
 
 ### Skills
 
