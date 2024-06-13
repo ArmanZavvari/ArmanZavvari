@@ -2,11 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Web Developer
--------------
+--------------
 
 * 🌍  I live in Tehran
 * ✉️  You can contact me at [armanzavvari@gmail.com](mailto:armanzavvari@gmail.com)
-* 🧠  I'm learning Next.js & PWA right now .
+* 🧠  I'm learning Next.js right now . 
 
 ### Skills
 
